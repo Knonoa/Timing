@@ -1,0 +1,5 @@
+result
+*.log
+*test.py
+.idea
+*/__pycache__

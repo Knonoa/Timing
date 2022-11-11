@@ -1,0 +1,22 @@
+{
+  "PringA": {
+    "Path": "Task/Sample_task.py",
+    "Job": "PringA",
+    "JobTime": {
+      "hour": "0-23",
+      "minute": "*/1"
+    },
+    "mail": {
+    }
+  },
+    "PrintB": {
+    "Path": "Task/Sample_task.py",
+    "Job": "PrintB",
+    "JobTime": {
+      "hour": "0-23",
+      "minute": "*/1"
+    },
+    "mail": {
+    }
+  }
+}
